@@ -1,0 +1,6 @@
+{
+  "name": "THE HAZE — Singapore Real-Time Air Quality & Public Guide",
+  "description": "Real-time Singapore 1-hour PM2.5 readings, regional air quality tracking, official NEA health guidance, and illustrated awareness campaign.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
